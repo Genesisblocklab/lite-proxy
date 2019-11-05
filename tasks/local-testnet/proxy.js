@@ -8,8 +8,8 @@
  */
 // parse command line options
 const options = {
-  port: 9071,
-  target: `https://lcd.testnet.color-platform.rnssol.com`
+  port: 9061,
+  target: `https://lcd.testnet.color-platform.org`
 }
 
 // Start the proxy
